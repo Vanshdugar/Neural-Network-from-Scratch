@@ -1,5 +1,6 @@
 # Neural-Network-from-Scratch
 **Creating a neural network to recognise handwritten digits**
+
 Hello, This is Vansh Dugar and i am making this repository to help out students like me 
 working on neural networks.
 
