@@ -23,5 +23,5 @@ Although there were some issues here and there i got help from AI tools such as 
 
 Overall, this is what i have done and obtained results are as follows:
 
-![Result](Results\Result.png)
-![Recognising Another Digit](Results\Result2.png)
+![Result](Results/Result.png)
+![Recognising Another Digit](Results/Result2.png)
