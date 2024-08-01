@@ -11,13 +11,13 @@ I was curiuos about how neural networks actually work and thus wanted to impleme
 Here, i even defined the activation functions on my own and i want to keep it as simple as possible for everyone to understand.
 
 I referred youtube majorly for this project,
-## This video Helped Me Understand The Logic Behind This Network and How Is The Flow Of Execution Really Is ##
+## This video helped me understand the logic behind this Network and How the Flow-Of-Execution really is ##
 [![What is neural network](https://img.youtube.com/vi/aircAruvnKk/0.jpg)](https://www.youtube.com/watch?v=aircAruvnKk)
 
-## This Video Gave Me Motivation To Work On This Project ##
+## This Video gave me motivation to work on this project ##
 [![Watch the video](https://img.youtube.com/vi/DQ0lCm0J3PM/0.jpg)](https://www.youtube.com/watch?v=DQ0lCm0J3PM) 
 
-## This Video Helped Me With Real Mathematics and Implementations ##
+## This Video helped me with real mathematics and implementations ##
 [![Watch the video](https://img.youtube.com/vi/w8yWXqWQYmU/0.jpg)](https://www.youtube.com/watch?v=w8yWXqWQYmU)
 
 Although there were some issues here and there i got help from AI tools such as ChatGPT to help me here and there.
